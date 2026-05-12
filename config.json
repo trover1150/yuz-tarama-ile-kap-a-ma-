@@ -1,0 +1,12 @@
+{
+  "general": {
+    "theme": "dark",
+    "show_fps": true
+  },
+  "proximity": {
+    "min_face_size": 150,
+    "max_distance": 150,
+    "min_duration": 300,
+    "roi_enabled": true
+  }
+}
