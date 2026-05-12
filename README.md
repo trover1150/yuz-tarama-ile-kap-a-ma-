@@ -1,0 +1,1 @@
+# yuz-tarama-ile-kap-a-ma-
